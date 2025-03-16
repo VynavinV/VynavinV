@@ -1,5 +1,5 @@
 # 💫 About Me:
-📄Currently working on building websites with flask<br>✅Just finished my internship at FutureCode<br>🏆2x hackathon winner<br>
+📄Currently working on building websites with flask<br>✅Just finished my internship at FutureCode<br>🏆4x hackathon winner<br>
 
 
 ## 🌐 Socials:
