@@ -1,73 +1,80 @@
 # 💫 About Me
-I’m **Vynavin Vinod**, a passionate Full‑Stack & Game Developer currently focused on **Flask** web applications. Recently wrapped up a VR internship at FutureCode and a 4× hackathon winner. Now building innovative ed‑tech solutions with AI & Web3.
 
-- 🎓 5+ years in tech — web, AI/ML, VR/AR, IoT  
-- 🛠️ Founder (Questify), Innovation Advisor (Peel District), Architect (Schoolsync)  
-- 🏆 Hackathons: 4 wins (including Bramhacks 2024 – OptiBus for smart transit) :contentReference[oaicite:1]{index=1}  
-- 🌍 Brampton, ON • Fluent in English & Tamil  
+Hey there! I’m **Vynavin Vinod**, a full-stack developer, hackathon winner (🥇x5), and founder of projects that merge **AI**, **blockchain**, and **ed-tech** to solve real-world problems.
 
----
-
-## 💻 Tech Stack  
-**Languages & Frameworks:** C#, Python, Flask, HTML5, WebGL  
-**Web & Cloud:** Firebase, Supabase, MongoDB, SQLite, Google Cloud, Heroku, PythonAnywhere, Glitch, GitHub Pages  
-**AI/ML & Data:** PyTorch, TensorFlow, OpenCV, Hugging Face, NumPy, Pandas, Matplotlib  
-**AR/VR & Game Dev:** Unity, C#, Blender  
-**Design & Tools:** Adobe Illustrator & Photoshop, Canva  
-**IoT & Hardware:** Raspberry Pi, Arduino  
-**Project Management:** Trello  
+- 🚀 Building: [SchoolSync](https://schoolsync.ca) • [Questify](https://questify.ai) • [CodeFigure](https://codefigure.org)
+- 🧠 Passionate about: EdTech • AI/ML • Web3 • Youth Empowerment
+- 🌎 Based in Brampton, Canada
+- 🏫 Currently in high school, but already teaching others and scaling startups 💡
 
 ---
 
-## 🧠 Experience & Roles
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vynavin-vinod-a9a71a2a6/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hurricanegames8368)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vineoven/)
 
-- **2024–Present — Founder, Questify**  
-  Building an AI-driven ed‑tech platform gamifying learning with crypto rewards—supported by schools globally :contentReference[oaicite:2]{index=2}.
-
-- **2024–2025 — Architect, Schoolsync**  
-  Engineered core architecture for a school community app; over 2K active users and 92% cost savings :contentReference[oaicite:3]{index=3}.
-
-- **2024–Present — Innovation Advisor, Peel District**  
-  Advising on cutting-edge tech strategies for regional schools :contentReference[oaicite:4]{index=4}.
-
-- **2024 — VR Developer & Team Lead, FutureCode**  
-  Led VR training app development for enterprise clients :contentReference[oaicite:5]{index=5}.
-
-- **2023–2024 — STEM Workshop Facilitator**  
-  Designed and delivered Python & robotics workshops at Royal Orchard Middle School :contentReference[oaicite:6]{index=6}.
-
----
-
-## 🚀 Highlights
-
-- **OptiBus @Bramhacks 2024**: 3rd prize for an AI/vision tool optimizing bus crowding in real-time :contentReference[oaicite:7]{index=7}.
-- **4× Hackathon Winner**: Innovated across AI, blockchain, VR, and IoT challenges.
-  
 ---
 
 ## 🧩 Featured Projects
 
-- **Questify** — AI‑powered learning platform with interactive quests and crypto incentives.
-- **PhysioGame** — Hackathon-winning physiotherapy app using AI/vision for guided exercises.
-- **ChainMail** — Secure email system with NEAR smart contracts and AI spam filters.
-- **GoGarbage** — (Add a brief description here—e.g. gamified recycling app.)
+### 🔷 [SchoolSync](https://schoolsync.ca)
+All-in-one student productivity suite trusted by 2,000+ users — built for schools, by students.
+
+### 🟡 [Questify](https://questify.ai)
+Next-gen learning platform powered by AI and blockchain. Think TikTok meets Duolingo — with crypto rewards.
+
+### 🟠 [CodeFigure](https://codefigure.org)
+Live online coding classes for Python & AI — led by students, for students.
 
 ---
 
-## 📫 Let’s Connect
+## 🏆 Highlights
 
-- 📩 vinod.vynavin@gmail.com  
-- 🌐 [Website / Portfolio](https://vynavin.tech/)  
-- 🤝 Everyone’s welcome to collaborate—especially in education, AI, and XR innovation!
-
----
-
-## 🛠️ GitHub Stats & Trophies
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VynavinV&theme=city_lights)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VynavinV&theme=city_lights)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VynavinV&theme=city_lights&layout=compact)
-![Trophies](https://github-profile-trophy.vercel.app/?username=VynavinV&theme=radical&no-bg=true)
+- 🥇 **5× Hackathon Winner** — including Bramhacks (2024), STEM Hacks, and more
+- 📈 2,000+ active users across platforms
+- 🧑‍🏫 Led Python & AI workshops for hundreds of middle schoolers
+- 🤝 Strategic partnerships with schools, innovation centers & youth tech initiatives
 
 ---
 
-*Profile proudly crafted with 💼 Markdown mastery and open-source flair.*  
+## 💻 Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks & Tools:**  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+
+**AI/ML:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=VynavinV&theme=city_lights&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=VynavinV&theme=city_lights&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VynavinV&theme=city_lights&hide_border=false&layout=compact)
+
+---
+
+## 🏅 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VynavinV&theme=radical&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=VynavinV&icon=0&color=0)](https://visitcount.itsvg.in)
