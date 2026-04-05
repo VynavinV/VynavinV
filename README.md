@@ -1,8 +1,8 @@
 # 💫 About Me
 
-Hey there! I’m **Vynavin Vinod**, a full-stack developer, hackathon winner (🥇x5), and founder of projects that merge **AI**, **blockchain**, and **ed-tech** to solve real-world problems.
+Hey there! I’m **Vynavin Vinod**, a full-stack developer, hackathon winner (🥇x6), and founder of projects that merge **AI**, **blockchain**, and **ed-tech** to solve real-world problems.
 
-- 🚀 Building: [SchoolSync](https://schoolsync.ca) • [Questify](https://questify.ai) • [CodeFigure](https://codefigure.org)
+- 🚀 Building: [SchoolSync](https://schoolsync.ca) • [Questify](https://questify.ai)
 - 🧠 Passionate about: EdTech • AI/ML • Web3 • Youth Empowerment
 - 🌎 Based in Brampton, Canada
 - 🏫 Currently in high school, but already teaching others and scaling startups 💡
